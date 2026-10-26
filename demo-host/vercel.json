@@ -1,0 +1,1 @@
+{"framework":null,"buildCommand":"node fetch-site.mjs","installCommand":"echo No dependencies required","outputDirectory":"public"}
